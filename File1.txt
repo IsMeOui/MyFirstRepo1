@@ -2,3 +2,4 @@ This is some text
 New TEXT
 
 Conflict TESTY
+"This is for the master branch"
